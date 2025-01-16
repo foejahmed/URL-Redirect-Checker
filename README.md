@@ -1,5 +1,8 @@
-before url any text will remove.
+list of url with any text before it can paste.
 
-URL-Redirect-Check
+process>
+when paste before url text will remove.
 
-if copy new url, add those removed text before new url
+>Redirect-URL
+
+>if copy new url, add those removed text before new url
