@@ -1,6 +1,7 @@
 list of url with any text before it can paste.
 
-process>
+process
+>
 when paste before url text will remove.
 
 >Redirect-URL
