@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>URL Redirect Checker</title>
+  <style>
+    #urlInput {
+      width: 600px; 
+      height: 200px;
+    }
+    #countDisplay{
+      font-size: 14px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <textarea id="urlInput" placeholder="Paste URLs here (keep browser 2 tab open)"></textarea>
+  <button id="processUrls">Process URLs</button>
+  <button id="copyResults">Copy Output</button>
+  <span id="countDisplay">= 0</span>
+  <ul id="results"></ul>
+  
+
+  <script src="popup.js"></script>
+</body>
+</html> 
