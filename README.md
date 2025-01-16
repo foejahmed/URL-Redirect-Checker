@@ -6,4 +6,4 @@ process
 
 >Redirect-URL
 
->if copy new url, add those removed text before new url
+>if u click copy, add those removed text before new url
