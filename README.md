@@ -1,4 +1,4 @@
-list of url with any text before it can paste.
+click on icon then paste list of url (no problem if any text before it).
 
 process
 
