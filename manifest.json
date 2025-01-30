@@ -1,11 +1,13 @@
 {
   "manifest_version": 3,
   "name": "URL Redirect Checker",
-  "version": "1.4",
+  "description": "Processes URLs, checks for redirects, copy new URLs",
+  "version": "1.6",
   "host_permissions": ["<all_urls>"],
-  "permissions": ["tabs", "activeTab", "scripting"],
+   "permissions": ["tabs"],
+   // "permissions": ["tabs", "scripting", "activeTab"],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "URL_opener.html"
   },
     "icons": {
      "16": "images/icon16.png",
